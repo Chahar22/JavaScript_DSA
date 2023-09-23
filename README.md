@@ -1,4 +1,5 @@
 # Javascript Practice Problems
+## Day 1
 
 1. https://leetcode.com/problems/counter/description/ 
 
